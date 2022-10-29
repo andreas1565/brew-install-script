@@ -1,2 +1,5 @@
+what shell are you running 
+which $SHELL
+
 how to run bash script
 bash brew-install-script.sh

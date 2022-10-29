@@ -1,4 +1,6 @@
-# install x-code tools
+#!/bin/zsh
+
+
 xcode-select --install
 
 
