@@ -26,22 +26,22 @@ brew install --cask visual-studio
 brew install --cask studio-3t
 brew install --cask docker
 brew install --cask mysqlworkbench
-brew install —cask spectacle
+brew install --cask spectacle
 brew install --cask malwarebytes
 brew install --cask xamarin-profiler
 
 
 #other progarms
 echo "installing other apps"
-brew install —cask firefox
-brew install —cask google-chrome
-brew install —cask microsoft-edge
-brew install —cask microsoft-teams
-brew install —cask microsoft-edge
-brew install  —cask alfred
-brew install —cask protonvpn
-brew install —cask teamviewer 
-brew install —cask alttab
+brew install --cask firefox
+brew install --cask google-chrome
+brew install --cask microsoft-edge
+brew install --cask microsoft-teams
+brew install --cask microsoft-edge
+brew install  --cask alfred
+brew install --cask protonvpn
+brew install --cask teamviewer 
+brew install --cask alttab
 brew install --cask spotify
 brew install --cask utm
 brew install --cask appcleaner
